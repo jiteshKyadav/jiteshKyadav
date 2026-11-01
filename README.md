@@ -23,3 +23,12 @@ My goal is to leverage data science and AI to solve real-world business problems
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jitesh-kumar-yadav-b30bb13a1/)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/jiteshKyadav)
+
+
+---
+
+## GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jiteshKyadav&show_icons=true&theme=transparent&hide_border=true&rank_icon=github)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jiteshKyadav&layout=compact&theme=transparent&hide_border=true)
