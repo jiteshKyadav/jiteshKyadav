@@ -1,8 +1,10 @@
 # Hi, I'm Jitesh Kumar Yadav 👋
 
-### Data Science & AI Student | Aspiring Data Scientist
+### Data Science & Artificial Intelligence | Data Analytics | Machine Learning | Deep Learning
 
-I'm a Data Science and Artificial Intelligence student interested in data analytics, machine learning, and deep learning. I enjoy working with data and building models.
+I am currently pursuing a degree in Data Science and Artificial Intelligence, with a focus on data analytics, statistical analysis, machine learning and deep learning. I work with Python, SQL, and data visualization tools to explore data, identify patterns, and develop analytical solutions.
+
+My goal is to leverage data science and AI to solve real-world business problems by building practical analytical solutions and machine learning models that support better, data-driven decision-making.
 
 ### 🛠️ Technical Skills
 
