@@ -17,3 +17,9 @@ My goal is to leverage data science and AI to solve real-world business problems
 **Areas of Interest** : Data Analysis and Visualization, Machine Learning and Deep Learning
 
 **Tools & Technologies** : Git & GitHub, Jupyter Notebook, VS Code, Python
+
+## Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jitesh-kumar-yadav-b30bb13a1/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/jiteshKyadav)
