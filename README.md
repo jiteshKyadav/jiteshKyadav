@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Jitesh Kumar Yadav 👋
 
-<!--
-**jiteshKyadav/jiteshKyadav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Science & AI Student | Aspiring Data Scientist
 
-Here are some ideas to get you started:
+I'm a Data Science and Artificial Intelligence student interested in data analytics, machine learning, and deep learning. I enjoy working with data and building models.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Skills
+
+**Programming Languages**
+- Python
+- SQL
+- R
+
+**Python Libraries**
+- NumPy
+- Pandas
+- Matplotlib
+
+**Data Visualization & BI**
+- Power BI
+- Tableau
+
+**Areas of Interest**
+- Data Analysis and Visualization
+- Machine Learning and Deep Learning
+
+### 💻 Tools & Technologies
+
+- Git & GitHub
+- Jupyter Notebook
+- VS Code
+- Python
+
+### 📫 Connect With Me
+
+- GitHub: [@jiteshKyadav](https://github.com/jiteshKyadav)
