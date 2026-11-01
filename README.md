@@ -16,8 +16,4 @@ My goal is to leverage data science and AI to solve real-world business problems
 
 **Areas of Interest** : Data Analysis and Visualization, Machine Learning and Deep Learning
 
-### 💻 Tools & Technologies : Git & GitHub, Jupyter Notebook, VS Code, Python
-
-### 📫 Connect With Me
-
-- GitHub: [@jiteshKyadav](https://github.com/jiteshKyadav)
+**Tools & Technologies** : Git & GitHub, Jupyter Notebook, VS Code, Python
