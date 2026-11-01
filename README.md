@@ -7,8 +7,11 @@ I'm a Data Science and Artificial Intelligence student interested in data analyt
 ### 🛠️ Technical Skills
 
 **Programming Languages** : Python, SQL
+
 **Python Libraries** : NumPy, Pandas, Matplotlib
+
 **Data Visualization** : Power BI ,Tableau
+
 **Areas of Interest** : Data Analysis and Visualization, Machine Learning and Deep Learning
 
 ### 💻 Tools & Technologies : Git & GitHub, Jupyter Notebook, VS Code, Python
