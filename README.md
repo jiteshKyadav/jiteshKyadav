@@ -24,9 +24,3 @@ My goal is to leverage data science and AI to solve real-world business problems
 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/jiteshKyadav)
 
-
-## GitHub Statistics
-
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=jiteshKyadav&show_icons=true&theme=transparent&hide_border=true)
-
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=jiteshKyadav&layout=compact&theme=transparent&hide_border=true)
